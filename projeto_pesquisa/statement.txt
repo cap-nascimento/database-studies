@@ -1,0 +1,9 @@
+Um professor pode orientar diversos alunos em um projeto de pesquisa.
+Um aluno pode participar de no máximo três projetos de pesquisa e po-
+-de ser orientado por um ou vários professores. Um professor pode at-
+-uar em 1 ou vários projetos. A orientação de um aluno por um profes-
+-sor é avaliada exatamente por uma comissão externa (a comissão exte-
+rna é composta por professores avaliadores). A comissão externa aval-
+-ia zero ou mais orientações. Todos os alunos orientados precisam el-
+-aborar um relatório de pesquisa e entregar no final do projeto. Ess-
+-e relatório deve conter todas as atividades realizadas.
